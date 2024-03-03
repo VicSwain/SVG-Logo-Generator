@@ -1,4 +1,7 @@
-const fs = require('fs');
-const inquirer = require('inquirer');
-const svgQuestions = require('./lib/svgQuestions.js');
+const CLI = require('./lib/cli.js');
+
+const cli = new CLI();
+
+cli.run();
+
 
