@@ -22,7 +22,8 @@
 
   ## Usage
   node index.js
-  [USAGE](https://drive.google.com/file/d/1KdpadAB3e5XX6t9lEniH414bTIXu5oV4/view)
+  
+  [USAGE](https://drive.google.com/file/d/1-vrGT6V-AXecE7FNDsHVdBseYMZ9LSgi/view?usp=drive_link)
 
   ## Tests
   JEST is used for testing within the project
